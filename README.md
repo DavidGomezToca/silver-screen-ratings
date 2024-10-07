@@ -10,7 +10,7 @@
 
 - **STACK :**
 
-  - **Silver Screen Ratings** : `0.3.0`
+  - **Silver Screen Ratings** : `0.4.0`
   - **React** : `18.3.1`
   - **React Dom** : `18.3.1`
 
@@ -25,4 +25,4 @@
 - **CREDITS :**
 
   - **Author : [David Gómez](https://github.com/DavidGomezToca)**
-  - **Author : [Flaticon](https://www.flaticon.es)**
+  - **Resources : [Flaticon](https://www.flaticon.es)**
